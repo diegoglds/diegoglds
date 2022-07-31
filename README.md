@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hello Im Diego Silva!</h1>
+ <h1>Hello I´m Diego Silva!</h1>
   <a href="https://github.com/diegoglds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoglds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoglds&layout=compact&langs_count=7&theme=dark"/>
