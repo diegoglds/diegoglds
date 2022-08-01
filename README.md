@@ -25,7 +25,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diegoglds&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
 
 
-<!--
+<!-- linha da cobrinha
   ##
  Cobrinha ![Snake animation](https://github.com/diegoglds/diegoglds/blob/output/github-contribution-grid-snake.svg)-->
  
